@@ -185,8 +185,5 @@ export default {
 <style lang="less">
     .canvas {
         width: 100%;
-        canvas {
-            // width: 100%;
-        }
     }
 </style>
